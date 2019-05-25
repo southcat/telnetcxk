@@ -8,6 +8,7 @@ You play basketball like CXK.
 附带composer.json，直接composer install即可安装所需的库
 
 Debug模式:php /路径/start.php start
+
 Daemon模式(可写入rc.local):php /路径/start.php start -d
 
 运行后"telnet 服务器IP 2333"即可
